@@ -1,0 +1,78 @@
+{
+  "city": "QuranWorld",
+  "stations": [
+    {
+      "name": "Quran Australia",
+      "url": "http://a2.asurahosting.com:7240/stream/1/"
+    },
+    {
+      "name": "Quran Bangladesh",
+      "url": "http://stream.zeno.fm/1z49becwn18uv"
+    },
+    {
+      "name": "Quran Bangla al Quran",
+      "url": "http://66.45.232.131:9994/;stream/1/;"
+    },
+    {
+      "name": "Quran Canada",
+      "url": "http://canada1.reliastream.com:8191/stream"
+    },
+    {
+      "name": "Quran Chinese",
+      "url": "http://66.45.232.131:9302/;"
+    },
+    {
+      "name": "Quran Egypt",
+      "url": "https://stream.radiojar.com/8s5u5tpdtwzuv"
+    },
+    {
+      "name": "Quran France",
+      "url": "http://stream-175.zeno.fm/s78bfahr36duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzNzhiZmFocjM2ZHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImFaZFB2Q3N6Ul82cVZsc1g3UnU4TFEiLCJpYXQiOjE3NzMzMjgyMDgsImV4cCI6MTc3MzMyODI2OH0.D4DYG700497c5nTPDTLE6ljJJB9bNLNzMnjGh5JdHig"
+    },
+    {
+      "name": "Quran German",
+      "url": "https://stream-162.zeno.fm/5fevvrf7digvv"
+    },
+    {
+      "name": "Quran Italy",
+      "url": "https://quran-radio.org:8440/;?type=http&nocache=29"
+    },
+    {
+      "name": "Quran Kuwait",
+      "url": "http://s2.voscast.com:12312/stream"
+    },
+    {
+      "name": "Quran Kurdish",
+      "url": "http://strw3.openstream.co/2388"
+    },
+    {
+      "name": "Quran Morocco",
+      "url": "https://virmach2.hajjam.net/index.html"
+    },
+    {
+      "name": "Quran Pakistan",
+      "url": "http://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12"
+    },
+    {
+      "name": "Quran Pashto",
+      "url": "https://serverkw.quran-uni.com:8178/stream/;"
+    },
+    {
+      "name": "Quran Saudi",
+      "url": "http://n13.radiojar.com/4wqre23fytzuv"
+    },
+    {
+      "name": "Quran South Africa",
+      "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
+    },
+    {
+      "name": "Quran Sudan",
+      "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
+    },
+    
+    {
+      "name": "Quran Turkey",
+      "url": "http://yayin.radyofeza.com/8002/stream"
+    }
+  ]
+}
