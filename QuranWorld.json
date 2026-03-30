@@ -41,11 +41,7 @@
       "name": "Quran Pakistan",
       "url": "http://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12"
     },
-    {
-      "name": "Quran Pashto",
-      "url": "http://serverkw.quran-uni.com:8178/stream/"
-    },
-      {
+         {
       "name": "Quran Saudi",
       "url": "http://n13.radiojar.com/4wqre23fytzuv"
     },
