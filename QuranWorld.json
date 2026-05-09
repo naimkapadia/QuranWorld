@@ -2,60 +2,56 @@
   "city": "QuranWorld",
   "stations": [
     {
-      "name": "Quran Australia",
+      "name": "Australia",
       "url": "http://a2.asurahosting.com:7240/stream/1/"
     },
     {
-      "name": "Quran Bangladesh",
+      "name": "Bangladesh",
       "url": "http://stream.zeno.fm/1z49becwn18uv"
     },
     {
-      "name": "Quran Bangla al Quran",
+      "name": "Bangla al Quran",
       "url": "http://66.45.232.131:9994/;stream/1/;"
     },
     {
-      "name": "Quran Canada",
+      "name": "Canada",
       "url": "http://canada1.reliastream.com:8191/stream"
     },
     {
-      "name": "Quran Chinese",
+      "name": "Chinese",
       "url": "http://66.45.232.131:9302/;"
     },
     {
-      "name": "Quran Egypt",
+      "name": "Egypt",
       "url": "http://stream.radiojar.com/8s5u5tpdtwzuv"
     },
        {
-      "name": "Quran Kuwait",
+      "name": "Kuwait",
       "url": "http://s2.voscast.com:12312/stream"
     },
     {
-      "name": "Quran Kurdish",
+      "name": "Kurdish",
       "url": "http://strw3.openstream.co/2388"
     },
     {
-      "name": "Quran Morocco",
+      "name": "Morocco",
       "url": "http://virmach1.hajjam.net:8005/;"
     },
-       {
-      "name": "Quran Pakistan",
-      "url": "http://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12"
-    },
-               {
-      "name": "Quran Saudi",
+                  {
+      "name": "SaudiArabia",
       "url": "http://n13.radiojar.com/4wqre23fytzuv"
     },
     {
-      "name": "Quran South Africa",
+      "name": "SouthAfrica",
       "url": "http://cast1.my-control-panel.com/proxy/netmoham/radioislam.mp3"
     },
     {
-      "name": "Quran Sudan",
+      "name": "Sudan",
       "url": "http://tijaniyyah.asuscomm.com:8000/stream/2/"
     },
     
     {
-      "name": "Quran Turkey",
+      "name": "Turkey",
       "url": "http://yayin.radyofeza.com/8002/stream"
     }
   ]
